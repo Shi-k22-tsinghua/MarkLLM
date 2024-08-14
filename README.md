@@ -506,6 +506,10 @@ detect_result_unwatermarked = myWatermark.detect_watermark(unwatermarked_text)
 
 If you are interested in text watermarking for large language models, please read our survey: [[2312.07913\] A Survey of Text Watermarking in the Era of Large Language Models (arxiv.org)](https://arxiv.org/pdf/2312.07913). We detail various text watermarking algorithms, evaluation methods, applications, current challenges, and future directions in this survey.
 
+### License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
+
 ### Citations
 
 ```
